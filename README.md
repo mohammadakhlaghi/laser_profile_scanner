@@ -4,7 +4,8 @@ This repository is dedicated to a customized profile laser scanner designed to f
 
 ### Video Demonstration
 
-A visual representation of the profile laser scanner in action is available in the repository. You can view the device in operation by watching the provided video file, "3dscanning_L.mp4." This video serves as a valuable resource for gaining a firsthand understanding of the capabilities and performance of the scanner. 
+A visual representation of the profile laser scanner in action is available in the repository. You can view the device in operation by watching the provided [video file (3dscanning_L.mp4)](https://github.com/mohammadakhlaghi/laser_profile_scanner/blob/main/3dscanning_L.mp4). This video serves as a valuable resource for gaining a firsthand understanding of the capabilities and performance of the scanner.
+
 
 ### Acknowledgments
 
