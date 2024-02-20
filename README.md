@@ -9,4 +9,4 @@ A visual representation of the profile laser scanner in action is available in t
 
 ### Acknowledgments
 
-The development of this innovative device took place at the Iran University of Science and Technology (IUST), led by the collaborative efforts of Mohammad Akhlaghi and Reza Mohammadnejad. Their contributions and expertise played a crucial role in bringing this profile laser scanner to fruition, making it a noteworthy addition to the field of 3D sensing and visual inspection.
+The development of this innovative device took place at the Iran University of Science and Technology (IUST), led by the collaborative efforts of Mohammad Akhlaghi and Reza Mohammadnejad.
