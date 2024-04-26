@@ -2,7 +2,7 @@
 
 This repository is dedicated to a customized profile laser scanner designed to function as a versatile 3D sensor for visual inspection purposes. The entire project is implemented using Python, with a focus on providing a comprehensive solution for capturing three-dimensional profiles. For enhanced clarity and ease of comprehension, the codebase includes interactive Jupyter (IPython) notebooks that effectively demonstrate the scanner's functionality and showcase the results.
 
-![Random image from test dataset](t.jpg)
+![Random image from test dataset](T.jpg)
 
 ### Video Demonstration
 
